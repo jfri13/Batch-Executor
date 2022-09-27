@@ -14,8 +14,7 @@ Click More Info and then Click Run Anyway.
 <br>
 
 **Method 2**. If you cannot download Release File, you can download the Source Code and Build it yourself.\
-Open the Solution File in Visual Studio and Build it.\
-Most of functions are included in Form1, and use it by modifying it as needed.\
+Build it by creating a project "BatchExecutor" in Visual Studio and adding the code for language.\
 There are no viruses in the code.
 
 <br><br>

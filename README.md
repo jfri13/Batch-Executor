@@ -21,7 +21,7 @@ There are no viruses in the code.
 <br><br>
 
 ## How to use
-![01](Images/01.png)
+![01](Images/01.png)\
 For example if you run Forgotten Saga.exe then Forgotten Saga.bat will run.\
 This program can be used to add emulator games on the Steam launcher or to create a shortcut on the desktop.
 
